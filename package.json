@@ -1,0 +1,13 @@
+{
+  "name": "iste-session",
+  "version": "1.0.0",
+  "description": "this is my code for the tech session",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Vaibhav Chopra",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
